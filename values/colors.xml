@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#171c3c</color>
+    <color name="purple_500">#171c3c</color>
+    <color name="purple_700">#171c3c</color>
+    <color name="teal_200">#171c3c</color>
+    <color name="teal_700">#171c3c</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_color">#ffececec</color>
+
+    <color name="splash">#171c3c</color>
+    <color name="sky">#daf1f7</color>
+    <color name="hint_color">#C1C1C1</color>
+    <color name="pdf_color">#b50030</color>
+    <color name="word_color">#09346b</color>
+    <color name="power_point_color">#a82d11</color>
+    <color name="excel_color">#005A31</color>
+    <color name="txt_color">#5B038B</color>
+    <color name="gray">#c92d2822</color>
+
+
+</resources>
